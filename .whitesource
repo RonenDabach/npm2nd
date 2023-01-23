@@ -22,6 +22,6 @@
      "extends": ["github>whitesource/merge-confidence:beta"]
     },
     "leastVulnerablePackageSettings": {
-        "enabled": false
+        "enabled": true
     }
 }
